@@ -1,0 +1,9 @@
+Najlepszym modelem będzie taki model, który jak najlepiej odzwierciedla rzeczywistość/system/proces, którego jest uproszczeniem.
+Mimo tego, model dobrze rozpisany dla próby jaka została mu zadana, niekoniecznie musi być dokładny dla całej populacji.
+Czasami model, który teoretycznie powinien być bardziej dokładny (np. model wielomianowy bardzo wysokiego stopnia) jest faktycznie
+dokładny dla punktów zadanych w próbie, lecz we fragmentach modelu gdzie nie ma punktów lub jest ich mało, może zachowywać
+się o wiele mniej przewidywalnie niż prosty model. Przykładowo dla danych z zadania lss.py dla modelów wielomianowych dużego stopnia (M>10) dla argumentów
+wokół, których nie było punktów z próby, model zachowuje się nieprzewydywalnie, ponieważ (wydawałoby się bez powodu) funkcja zaczyna bardzo szybko
+rosnąć a następnie maleć tak aby "spotkać się" z punktem, który był na podobnej "wysokości" jak miejsce z którego funkcja zaczęła rosnąć.
+W związku z tym dla danych, które zachowują pewne tendencje dotyczące monotoniczności lepiej będzie skorzystać z prostych modeli liniowych, lub wielomianowych niskiego stopnia.
+
