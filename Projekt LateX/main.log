@@ -1,0 +1,871 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.7)  7 JUN 2023 17:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/wieslaw/Kursy/Metody Systemowe I Decyzyjne Laboratoria/Projekt LateX/main.tex"
+(/home/wieslaw/Kursy/Metody Systemowe I Decyzyjne Laboratoria/Projekt LateX/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count193
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count194
+\mult@box=\box50
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count195
+\c@collectmore=\count196
+\doublecol@number=\count197
+\multicoltolerance=\count198
+\multicolpretolerance=\count199
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@firstbox=\box55
+\mult@gfirstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count266
+\c@columnbadness=\count267
+\c@finalcolumnbadness=\count268
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count269
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box95
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ (./abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 43--1
+
+ []
+
+) (./sections/1_intro.tex
+No file main.toc.
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/1_intro.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ne na podstawie ich gatunku lub gatunków.}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+\OT1/cmr/bx/n/12 Klasyfikacja jest pro-ce-sem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+\OT1/cmr/bx/n/12 predykcji doty-cza-cej klasy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+\OT1/cmr/bx/n/12 lub klas do ja-kich nale_zy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+\OT1/cmr/bx/n/12 przewidywa^^Sc przy-nale_zno^^Ssci
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 4--5
+\OT1/cmr/bx/n/12 wyko-rzysty-wanych do klasy-
+ []
+
+) (./sections/2_section.tex
+./sections/2_section.tex:1: Undefined control sequence.
+l.1 {\color
+           {gray}\hrule}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./sections/2_section.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...a dostępnych danych i ich charakterystyki}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:4: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...a dostępnych danych i ich charakterystyki}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./sections/2_section.tex:6: Undefined control sequence.
+l.6 {\color
+           {gray}\hrule}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\OT1/cmr/bx/n/12 Architektura Spo-tify
+ []
+
+
+./sections/2_section.tex:10: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 Dane wykorzystane w tym raporcie pochodzą
+                                                z Webowego API Spotify przez...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:10: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ystany przez Spotify API to OAuth, w zwią
+                                                  zku z tym aby uzyskać met...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:10: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...by uzyskać metadane utworów należy się
+                                                   wcześniej uwierzytelnić.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \vbox (7.75925pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (7.75925pt too high) has occurred while \output is active []
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/cmr/bx/n/12 Implementacja wrap-
+ []
+
+
+./sections/2_section.tex:12: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...cznie nieskończenie długi czas ze wzglę
+                                                  du na automatyczne odświe...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:12: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...a automatyczne odświeżanie tokena dostę
+                                                  powego zanim zostanie unie...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:12: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...jest kluczowe do efektywnego zebrania wię
+                                                  kszych zbiorów danych, kt...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:12: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...nia większych zbiorów danych, które są
+                                                   wymagane do efektywnego w...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:12: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...ektywnego wyćwiczenia modeli klasyfikują
+                                                  cych.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 Aby za-u-tomaty-zowa^^Sc pro-ces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 danych z na-jwa_zniejszych end-
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 ten umo_zliwia nieprz-er-wane po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 uniewa_zniony. Nieprz-er-wane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 dzia lanie takiego pro-cesu jest
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 kluc-zowe do efek-ty-wnego ze-bra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\OT1/cmr/m/n/12 nia wiek-szych zbior^^Sow danych,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\OT1/cmr/bx/n/12 Wykorzystane end-
+ []
+
+
+./sections/2_section.tex:14: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 Aby pobrać komplet interesują
+                                    cych nas danych wykorzystano następują...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:14: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...resujących nas danych wykorzystano nastę
+                                                  pujące endpointy
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:14: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ących nas danych wykorzystano następują
+                                                  ce endpointy
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:16: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...wa i identyfikatory artystów, którzy są
+                                                   autorami danego utworu}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (22.42978pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/12 https://api.spotify.com/v1/tracks/
+ []
+
+
+Overfull \hbox (23.8006pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/m/n/12 https://api.spotify.com/v1/artists/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\OT1/cmr/m/n/12 stawie ich iden-ty-fika-tora.
+ []
+
+
+./sections/2_section.tex:18: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ... jego identyfikatora. Do metadanych dostę
+                                                  pnych pod tym endpointem n...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:18: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ch dostępnych pod tym endpointem należą
+                                                  : 'acousticness', 'danceab...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (17.7951pt too wide) in paragraph at lines 18--19
+[]\OT1/cmr/m/n/12 https://api.spotify.com/v1/audio-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\OT1/cmr/m/n/12 features/ - do po-bra-nia
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 18--19
+\OT1/cmr/m/n/12 metadanych o ut-worze na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\OT1/cmr/m/n/12 pod-stawie jego iden-ty-fika-
+ []
+
+
+Overfull \hbox (33.59216pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/m/n/12 https://api.spotify.com/v1/playlists/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\OT1/cmr/m/n/12 - do po-bra-nia iden-ty-fika-
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 19--20
+\OT1/cmr/m/n/12 tor^^Sow ut-wor^^Sow z playlisty
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 20.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+
+Overfull \hbox (112.03122pt too wide) in paragraph at lines 20--22
+[]\OT1/cmr/m/n/12 https://api.spotify.com/v1/users/\OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 user[]id\OMS/cmsy/m/n/12 g\OT1/cmr/m/n/12 /playlists
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+\OT1/cmr/m/n/12 - do po-bra-nia playlist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\OT1/cmr/bx/n/12 Struktura po-branych
+ []
+
+
+./sections/2_section.tex:25: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 Pobrany zbior danych posiada pewne nastę
+                                              pujące zasady
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:25: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...any zbior danych posiada pewne następują
+                                                  ce zasady
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\OT1/cmr/m/n/12 Pobrany zbior danych posi-ada
+ []
+
+
+./sections/2_section.tex:27: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...jarzony jest z co najmniej jednym artystą
+                                                  }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:28: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...y artysta może być skojarzony z dowolną
+                                                   liczbą gatunków}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:28: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...a może być skojarzony z dowolną liczbą
+                                                   gatunków}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\OT1/cmr/m/n/12 jar-zony z dowolna liczba
+ []
+
+
+./sections/2_section.tex:31: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...sad widać, że jedynym sposobem na powią
+                                                  zanie utworu z jego gatunk...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:31: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...odnej relacji z gatunkiem poprzez artystę
+                                                  . Dla pojedynczych utworó...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:31: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...kie przypisanie gatunków może być mylą
+                                                  ce, ponieważ ten system z...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:31: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...a, że wszystkie utwory artysty posiadają
+                                                   wszystkie jego gatunki, c...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./sections/2_section.tex:31: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ... w wielu przypadkach może być nieprawdą
+                                                  .
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+\OT1/cmr/m/n/12 jest sko-rzys-tanie z prze-chod-nej
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]) (./sections/3_section.tex) (./sections/4_section.tex) (./sections/5_conclusion.tex) (./main.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1155 strings out of 480247
+ 18377 string characters out of 5896152
+ 316973 words of memory out of 5000000
+ 19138 multiletter control sequences out of 15000+600000
+ 471979 words of font info for 37 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 33i,11n,55p,800b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (3 pages, 72122 bytes).
+PDF statistics:
+ 39 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

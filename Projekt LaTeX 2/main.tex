@@ -1,0 +1,55 @@
+\documentclass[a4paper,12pt]{article}
+% Package to make citations superscrit with brackets
+\usepackage[super,square]{natbib}
+% Package to change margin size
+
+% Package to make headers
+\usepackage{fancyhdr}
+\renewcommand{\headrulewidth}{0pt}
+% Package for highligths
+
+% Package for multicolumn
+\usepackage{multicol}
+\setlength\columnsep{18pt}
+% Sets bastract
+\renewenvironment{abstract}
+ {\par\noindent\textbf{\abstractname}\ \ignorespaces \\}
+ {\par\noindent\medskip}
+
+
+
+ 
+\begin{document}
+% Makes header
+\pagestyle{fancy}
+\thispagestyle{empty}
+\fancyhead[R]{\textit{Baltic Security Foundation}}
+\fancyhead[L]{}
+% Makes footnotes with an asterisk
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\begin{center}
+\Large{\textbf{Klasyfikacja gatunków utworu na podstawie jego metadanych dostarczanych przez Spotify API}}
+\vspace{0.4cm}
+\normalsize
+\\ Adam Lamers \\
+\vspace{0.1cm}
+\textit{Organization}
+\small{Politechnika Wrocławska}
+\medskip
+\normalsize
+\end{center}
+
+\vspace{0.4cm}
+\begin{abstract}
+\input{./abstract.tex}
+\end{abstract}
+
+\medskip
+\input{./sections/1_intro.tex}
+\input{./sections/2_section.tex}
+\input{./sections/3_section.tex}
+\input{./sections/4_section.tex}
+\input{./sections/5_conclusion.tex}
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}

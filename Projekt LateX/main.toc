@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Źródło danych}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Spotify Web API}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Architektura Spotify Web API}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Implementacja wrappera Spotify Web API}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Wykorzystane endpointy}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Struktura pobranych danych}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}Przechowywania danych}{3}{}%

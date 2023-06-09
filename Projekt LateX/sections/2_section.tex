@@ -1,0 +1,35 @@
+{\color{gray}\hrule}
+\begin{center}
+\section{Źródło danych}
+\textbf{Wstępna analiza dostępnych danych i ich charakterystyki}
+\end{center}
+{\color{gray}\hrule}
+\begin{multicols}{2}
+\subsection{Spotify Web API}
+\subsubsection{Architektura Spotify Web API}
+Dane wykorzystane w tym raporcie pochodzą z Webowego API Spotify przeznaczonego dla deweloperów third-party. Wykorzystane API umożliwia uzyskanie metadanych o utworze po podaniu ważnego tokena i identyfikatora utworu (track\_id). System uwierzytelniania i autoryzacji wykorzystany przez Spotify API to OAuth, w związku z tym aby uzyskać metadane utworów należy się wcześniej uwierzytelnić.
+\subsubsection{Implementacja wrappera Spotify Web API}
+Aby zautomatyzować proces uwierzytelniania napisałem prosty wrapper, który umożliwia pobieranie danych z najważniejszych endpointów. Jednocześnie wrapper ten umożliwia nieprzerwane pobieranie danych przez teoretycznie nieskończenie długi czas ze względu na automatyczne odświeżanie tokena dostępowego zanim zostanie unieważniony. Nieprzerwane działanie takiego procesu jest kluczowe do efektywnego zebrania większych zbiorów danych, które są wymagane do efektywnego wyćwiczenia modeli klasyfikujących.
+\subsubsection{Wykorzystane endpointy}
+Aby pobrać komplet interesujących nas danych wykorzystano następujące endpointy
+\begin{enumerate}
+    \item {https://api.spotify.com/v1/tracks/ - do pobrania podstawowych danych o utworze jak identyfikator, nazwa i identyfikatory artystów, którzy są autorami danego utworu}
+    \item {https://api.spotify.com/v1/artists/ - do pobrania podstawowych danych o artystach na podstawie ich identyfikatora. Dane pobierane z tego endpointa to nazwa artysty o oraz gatunki z nim skojarzone.}
+    \item {https://api.spotify.com/v1/audio-features/ - do pobrania metadanych o utworze na podstawie jego identyfikatora. Do metadanych dostępnych pod tym endpointem należą: 'acousticness', 'danceability', 'energy', 'instrumentalness', 'key', 'loudness', 'liveness', 'mode', 'speechiness', 'tempo','time\_signature', 'valence'}
+    \item{https://api.spotify.com/v1/playlists/ - do pobrania identyfikatorów utworów z playlisty określonego użytkownika}
+    \item{https://api.spotify.com/v1/users/\{user\_id\}/playlists - do pobrania 
+    playlist określonego użytkownika}
+\end{enumerate}
+
+\subsubsection{Struktura pobranych danych}
+Pobrany zbior danych posiada pewne następujące zasady
+\begin{enumerate}
+    \item {Każdy utwór skojarzony jest z co najmniej jednym artystą}
+    \item {Każdy artysta może być skojarzony z dowolną liczbą gatunków}
+    \item {Każdy utwór posida przypisany zbiór metadanych}
+\end{enumerate}
+Na podstawie powyższych zasad widać, że jedynym sposobem na powiązanie utworu z jego gatunkiem jest skorzystanie z przechodnej relacji z gatunkiem poprzez artystę. Dla pojedynczych utworów takie przypisanie gatunków może być mylące, ponieważ ten system zakłada, że wszystkie utwory artysty posiadają wszystkie jego gatunki, co w wielu przypadkach może być nieprawdą. 
+
+\subsubsection{Przechowywania danych}
+
+\end{multicols}
